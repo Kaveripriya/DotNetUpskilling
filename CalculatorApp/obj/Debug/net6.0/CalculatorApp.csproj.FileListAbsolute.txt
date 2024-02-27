@@ -1,0 +1,15 @@
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\bin\Debug\net6.0\CalculatorApp.exe
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\bin\Debug\net6.0\CalculatorApp.deps.json
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\bin\Debug\net6.0\CalculatorApp.runtimeconfig.json
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\bin\Debug\net6.0\CalculatorApp.dll
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\bin\Debug\net6.0\CalculatorApp.pdb
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.dll
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\refint\CalculatorApp.dll
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.pdb
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\KaveriPriya\Desktop\COE\Upskilling_Dotnet\CalculatorApp\obj\Debug\net6.0\ref\CalculatorApp.dll
