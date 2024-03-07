@@ -1,0 +1,18 @@
+Table: products
+
+| ProductID | ProductName | Category   | Price |
+|-----------|-------------|------------|-------|
+| 101       | Laptop      | Electronics| 1200  |
+| 102       | Smartphone  | Electronics| 800   |
+| 103       | T-shirt     | Clothing   | 20    |
+| 104       | Jeans       | Clothing   | 50    |
+| 105       | Book        | Books      | 15    |
+List of Queries:
+
+1. Retrieve all columns from the products table.
+2. Retrieve products with a Price greater than 50.
+3. Retrieve products sorted by Price in descending order.
+4. Count the number of products in each Category.
+5. Retrieve categories with more than 1 product.
+6. Retrieve the first 3 products.
+7. Retrieve products after the first 2.
